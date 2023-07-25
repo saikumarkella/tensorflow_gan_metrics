@@ -1,0 +1,6 @@
+# ignoring build and distribution files
+build/
+dist/
+
+# ignoring the egg-info folder
+tensorflow_gan_metrics.egg-info/
